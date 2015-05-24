@@ -1,1 +1,5 @@
-test
+unit_tests
+
+*.gcno
+* gcov
+*.gcda
